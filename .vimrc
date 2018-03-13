@@ -10,3 +10,4 @@ set cursorcolumn
 set encoding=utf-8
 set showmatch
 set smartindent
+autocmd FileType yaml setlocal ai ts=2 sw=2 et 
